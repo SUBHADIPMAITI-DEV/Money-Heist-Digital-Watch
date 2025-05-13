@@ -1,7 +1,7 @@
 # Money Heist Digital Watch
 
 <p align="center">
-  <img src="public/preview.png" alt="Money Heist Digital Watch Preview" width="600">
+  <img src="clock%20image.png" alt="Money Heist Digital Watch Preview" width="600">
 </p>
 
 A stylish digital watch with Money Heist (La Casa de Papel) theme featuring a Salvador Dalí mask pendulum and "Bella Ciao" alarm sound.
@@ -16,7 +16,7 @@ A stylish digital watch with Money Heist (La Casa de Papel) theme featuring a Sa
 
 ## Demo
 
-[View Live Demo](#) <!-- Add your deployment URL here when available -->
+[View Live Demo](https://v0-digital-pendulum-watch.vercel.app/) 
 
 ## Installation
 
