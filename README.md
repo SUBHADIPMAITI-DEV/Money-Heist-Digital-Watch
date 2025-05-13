@@ -1,36 +1,34 @@
+# Money Heist Digital Watch
 
-I've created three files for your GitHub repository:
+<p align="center">
+  <img src="public/preview.png" alt="Money Heist Digital Watch Preview" width="600">
+</p>
 
-1. **README.md** - A comprehensive readme file that includes:
-   - Project overview and features
-   - Installation instructions
-   - Usage guide
-   - Project structure
-   - Technologies used
-   - Customization options
-   - Contributing guidelines
+A stylish digital watch with Money Heist (La Casa de Papel) theme featuring a Salvador Dalí mask pendulum and "Bella Ciao" alarm sound.
 
-2. **requirements.txt** - A reference file listing the main dependencies:
-   - Note that Next.js projects typically use package.json instead
-   - Includes all the major dependencies with version requirements
-   - Contains instructions for installing dependencies with npm/yarn
+## Features
 
-3. **INSTALLATION.md** - A detailed installation guide:
-   - Step-by-step instructions for beginners
-   - Troubleshooting section for common issues
-   - Deployment instructions
-   - Additional resources
+- **Real-time Digital Clock** with 12/24 hour format toggle
+- **Money Heist Theme** with Salvador Dalí mask pendulum
+- **Alarm System** with "Bella Ciao" sound
+- **Interactive Pendulum** that swings in real-time
+- **Responsive Design** that works on desktop and mobile devices
 
-These files provide comprehensive documentation for your Money Heist Digital Watch project, making it easy for users to install, use, and contribute to your repository.
+## Demo
 
-<Actions>
-  <Action name="Add project screenshots" description="Add screenshots of the digital watch to the README" />
-  <Action name="Create package.json example" description="Create an example package.json file for the project" />
-  <Action name="Add feature roadmap" description="Create a roadmap of planned features" />
-  <Action name="Create contributing guide" description="Create a detailed CONTRIBUTING.md file" />
-  <Action name="Add license file" description="Add an MIT license file to the repository" />
-</Actions>
+[View Live Demo](#) <!-- Add your deployment URL here when available -->
 
+## Installation
 
+### Prerequisites
 
+- Node.js 16.8.0 or later
+- npm or yarn
 
+### Setup Instructions
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/money-heist-digital-watch.git
+   cd money-heist-digital-watch
