@@ -1,0 +1,28 @@
+# Money Heist Digital Watch Dependencies
+
+# Note: This is a Next.js project, so dependencies are typically managed through package.json
+# This file is provided for reference only
+
+# Core Dependencies
+next>=14.0.0
+react>=18.0.0
+react-dom>=18.0.0
+
+# UI and Styling
+tailwindcss>=3.3.0
+framer-motion>=10.0.0
+
+# UI Components
+@radix-ui/react-switch>=1.0.0
+@radix-ui/react-slot>=1.0.0
+class-variance-authority>=0.7.0
+clsx>=2.0.0
+lucide-react>=0.294.0
+
+# Utilities
+tailwind-merge>=1.14.0
+
+# To install these dependencies in a Next.js project, use:
+# npm install next react react-dom tailwindcss framer-motion @radix-ui/react-switch @radix-ui/react-slot class-variance-authority clsx lucide-react tailwind-merge
+# or
+# yarn add next react react-dom tailwindcss framer-motion @radix-ui/react-switch @radix-ui/react-slot class-variance-authority clsx lucide-react tailwind-merge
