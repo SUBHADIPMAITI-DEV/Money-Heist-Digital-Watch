@@ -30,5 +30,5 @@ A stylish digital watch with Money Heist (La Casa de Papel) theme featuring a Sa
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/money-heist-digital-watch.git
+   git clone https://github.com/SUBHADIPMAITI-DEV/Money-Heist-Digital-Watch.git
    cd money-heist-digital-watch
